@@ -1,0 +1,46 @@
+---
+title: "Week 4 project"
+author: "RAIHANE Hamza"
+date: "4/15/2021"
+output: html_document
+---
+
+## R Markdown
+
+Online Two Sample T Test with plot
+Have YOU ever wanted a quick online tool where you can just upload your two sample files and get back a nice density plot representation and the t.test output?
+
+Then this is the tool for you!
+
+
+## The Problem
+
+
+
+You have two samples
+
+But how to do a bit of quick analysis and visualization without out all that tedious mucking about in RStudio?
+
+## The Solution
+
+
+data:  measure by sample
+t = 0.98485, df = 174.22, p-value = 0.3261
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.4902879  1.4669285
+
+
+
+## How to use this App
+
+
+Create two data files containing 1 measurement per row (a header line is acceptable)
+
+
+Use the file selectors to upload your data files and press 'Go!'
+
+Next Steps
+Save this link in your favourites NOW!!!
+
+
